@@ -1,0 +1,15 @@
+{
+  "name": "moonsofpandora",
+  "version": "1.0.0",
+  "description": "A Twiter Bot that makes moons.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "iashris",
+  "license": "ISC",
+  "dependencies": {
+    "sentencer": "^0.1.5",
+    "twit": "^2.2.5"
+  }
+}
